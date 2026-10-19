@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="input_label">Temperature</string>
+    <string name="input_placeholder">e.g. 36.6 or -40</string>
+    <string name="from_label">From</string>
+    <string name="to_label">To</string>
+    <string name="swap_units">Swap units</string>
+    <string name="toggle_sign">Toggle negative sign</string>
+    <string name="clear_input">Clear input</string>
+    <string name="result_label">Result</string>
+    <string name="result_placeholder">—</string>
+    <string name="hint_empty">Enter a temperature to convert</string>
+    <string name="error_invalid_number">Please enter a valid number</string>
+    <string name="error_below_absolute_zero">Must not be below absolute zero (%1$s)</string>
+</resources>
